@@ -176,31 +176,31 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\approximateEntropy.c"
+				RelativePath=".\approximateEntropy.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\assess.c"
+				RelativePath=".\assess.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\blockFrequency.c"
+				RelativePath=".\blockFrequency.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\cephes.c"
+				RelativePath=".\cephes.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\cusum.c"
+				RelativePath=".\cusum.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\dfft.c"
+				RelativePath=".\dfft.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\discreteFourierTransform.c"
+				RelativePath=".\discreteFourierTransform.c"
 				>
 			</File>
 			<File
@@ -208,63 +208,63 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\frequency.c"
+				RelativePath=".\frequency.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\generators.c"
+				RelativePath=".\generators.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\genutils.c"
+				RelativePath=".\genutils.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\linearComplexity.c"
+				RelativePath=".\linearComplexity.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\longestRunOfOnes.c"
+				RelativePath=".\longestRunOfOnes.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\matrix.c"
+				RelativePath=".\matrix.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\nonOverlappingTemplateMatchings.c"
+				RelativePath=".\nonOverlappingTemplateMatchings.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\overlappingTemplateMatchings.c"
+				RelativePath=".\overlappingTemplateMatchings.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\randomExcursions.c"
+				RelativePath=".\randomExcursions.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\randomExcursionsVariant.c"
+				RelativePath=".\randomExcursionsVariant.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\rank.c"
+				RelativePath=".\rank.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\runs.c"
+				RelativePath=".\runs.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\serial.c"
+				RelativePath=".\serial.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\universal.c"
+				RelativePath=".\universal.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\src\utilities.c"
+				RelativePath=".\utilities.c"
 				>
 			</File>
 		</Filter>
@@ -274,47 +274,47 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\cephes.h"
+				RelativePath=".\include\cephes.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\config.h"
+				RelativePath=".\include\config.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\decls.h"
+				RelativePath=".\include\decls.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\defs.h"
+				RelativePath=".\include\defs.h"
 				>
 			</File>
 			<File
-				RelativePath=".\erf.h"
+				RelativePath=".\include\erf.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\externs.h"
+				RelativePath=".\include\externs.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\generators.h"
+				RelativePath=".\include\generators.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\genutils.h"
+				RelativePath=".\include\genutils.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\matrix.h"
+				RelativePath=".\include\matrix.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\stat_fncs.h"
+				RelativePath=".\include\stat_fncs.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\My Documents\Downloads\sts-2.1.1\include\utilities.h"
+				RelativePath=".\include\utilities.h"
 				>
 			</File>
 		</Filter>
