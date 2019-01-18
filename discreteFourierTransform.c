@@ -22,11 +22,11 @@ DiscreteFourierTransform(int n)
 		 ((wsave = (double *)calloc(2*n,sizeof(double))) == NULL) ||
 		 ((m = (double*)calloc(n/2+1, sizeof(double))) == NULL) ) {
 			fprintf(stats[7],"\t\tUnable to allocate working arrays for the DFT.\n");
-			if( X == NULL )
+			if( X != NULL )
 				free(X);
-			if( wsave == NULL )
+			if( wsave != NULL )
 				free(wsave);
-			if( m == NULL )
+			if( m != NULL )
 				free(m);
 			return;
 	}
