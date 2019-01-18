@@ -1,4 +1,6 @@
-# nist-sts
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/kravietz/nist-sts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kravietz/nist-sts/alerts/)
+
+# NIST Statistical Test Suite
 
 This is a slightly updated version of [NIST Statistical Test Suite (STS)](http://csrc.nist.gov/groups/ST/toolkit/rng/documentation_software.html) tool for randomness testing. Main reason for this fork is that the original source code provided by NIST doesn't compile cleanly on Windows using MSVC. Main reason is that MSVC doesn't provide erf() and erfc() functions in standard math library. I've added implementation of these functions and created a project file. You should be now able to compile STS using standard Microsoft Visual C/C++ suite.
 
