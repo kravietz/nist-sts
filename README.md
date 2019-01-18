@@ -1,4 +1,5 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/kravietz/nist-sts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kravietz/nist-sts/alerts/)
+[![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/kravietz/nist-sts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kravietz/nist-sts/context:cpp)
 
 # NIST Statistical Test Suite
 
